@@ -1,0 +1,20 @@
+.DS_Store
+node_modules
+
+# Environment variables
+.env
+.env.*
+
+# WebStorm configuration
+.idea
+
+# VSCode configuration
+.vscode
+
+# Yarn
+yarn-error.log
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+!.yarn/versions
+.pnp.*
